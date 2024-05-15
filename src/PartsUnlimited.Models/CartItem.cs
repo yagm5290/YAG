@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    // Prueba Github 20240515 3:01
+    // Prueba Github 20240515 3:01 Otra
     public class CartItem
     {
         [Key]
