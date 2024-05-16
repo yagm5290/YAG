@@ -1,5 +1,4 @@
-﻿
-//Cambio 20240516 local 1
+//Cambio 20240516 master 1 
 // Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
@@ -8,7 +7,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-//Cambio 20240516
     // Prueba Github 20240515 3:01 Otra
     public class CartItem
     {
